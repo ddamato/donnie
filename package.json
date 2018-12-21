@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
+  "name": "donnie",
   "version": "1.2.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Donnie D'Amato (@donnie)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/ddamato/donnie.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Donnie D'Amato <fauxserious@gmail.com> (https://www.donniedamato.info)",
   "license": "MIT",
   "files": [
     "bin/card.js",
