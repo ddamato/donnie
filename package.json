@@ -1,6 +1,6 @@
 {
   "name": "donnie",
-  "version": "1.2.0",
+  "version": "1.2.3",
   "description": "A personal card for Donnie D'Amato (@donnie)",
   "main": "index.js",
   "bin": {
@@ -24,8 +24,10 @@
     "bin/output"
   ],
   "devDependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
     "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
   }
 }
